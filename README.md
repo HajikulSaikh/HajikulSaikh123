@@ -1,2 +1,1 @@
-# HajikulSaikh123
-First repository
+Scientific calculator
